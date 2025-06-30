@@ -1,4 +1,4 @@
-package list;
+package list.carrinhoitens;
 
 import java.util.ArrayList;
 import java.util.List;

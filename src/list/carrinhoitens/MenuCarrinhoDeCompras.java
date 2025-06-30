@@ -1,7 +1,8 @@
-import list.CarrinhoDeCompras;
+package list.carrinhoitens;
+
 import java.util.Scanner;
 
-public class Main {
+public class MenuCarrinhoDeCompras {
     public static void main(String[] args) {
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
         Scanner scanner = new Scanner(System.in);
