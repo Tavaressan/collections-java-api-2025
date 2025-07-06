@@ -1,4 +1,4 @@
-# collections-java-api-2025
+# Collections Java Api 2025
 
 Estudo de Collections em Java feito a partir do curso Santander Java da DIO.
 
