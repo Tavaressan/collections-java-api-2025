@@ -1,69 +1,68 @@
-# Collections Java Api 2025
+# Collections Java API 2025
 
-Estudo de Collections em Java feito a partir do curso Santander Java da DIO.
+Bem-vindo(a)! 👋  
+Este repositório reúne uma série de exercícios práticos sobre Collections em Java, desenvolvidos durante o curso Santander Java da DIO. Se você quer aprender na prática operações com `List`, `Set` e `Map`, aqui é o lugar certo para explorar, estudar e experimentar!
 
-## Objetivo
+---
 
-O objetivo principal deste projeto é o estudo e a prática de operações básicas, pesquisa e ordenação com as Collections `List`, `Set` e `Map`. Foram realizados exercícios práticos para cada um desses tópicos, explorando funcionalidades essenciais das principais interfaces de Collections do Java.
+## 🚀 Objetivo
 
-## Requisitos
+O principal objetivo deste projeto é facilitar o estudo e o domínio das principais operações com as Collections do Java. Você encontrará exemplos claros de como manipular listas, conjuntos e mapas para resolver diferentes desafios do dia a dia da programação.
+
+---
+
+## 🛠️ Requisitos
 
 - Java 17
 
 ---
 
-## Exercícios Propostos
+## 📚 Exercícios Propostos
 
-Abaixo, confira as propostas dos exercícios realizados neste repositório. Explore as soluções implementadas nos códigos-fonte!
+Confira abaixo as propostas dos exercícios e navegue pelo código para ver como cada desafio foi solucionado. Aproveite para testar, adaptar e aprimorar as ideias!
 
 ### List
 
 1. **Carrinho de Compras (Operações Básicas)**
-   - Crie uma classe chamada `CarrinhoDeCompras` representando um carrinho de compras online, implementado como uma lista de itens (`Item`) com nome, preço e quantidade.
-   - Métodos: adicionarItem, removerItem, calcularValorTotal, exibirItens.
-
+   - Implemente um carrinho de compras, adicione, remova, calcule o valor total e exiba os itens facilmente.
 2. **Soma de Números (Pesquisa)**
-   - Classe `SomaNumeros` com uma lista de números inteiros.
-   - Métodos: adicionarNumero, calcularSoma, encontrarMaiorNumero, encontrarMenorNumero, exibirNumeros.
-
+   - Some números, encontre o maior e o menor valor e visualize toda a lista.
 3. **Ordenação de Números (Ordenação)**
-   - Classe `OrdenacaoNumeros` que possui uma lista de inteiros.
-   - Métodos: adicionarNumero, ordenarAscendente, ordenarDescendente.
+   - Insira e ordene números de forma ascendente ou descendente com apenas um método.
 
 ### Set
 
 1. **Conjunto de Palavras Únicas (Operações Básicas)**
-   - Classe `ConjuntoPalavrasUnicas` com um conjunto de palavras únicas.
-   - Métodos: adicionarPalavra, removerPalavra, verificarPalavra, exibirPalavrasUnicas.
-
+   - Adicione, remova, verifique e exiba palavras sem repetições.
 2. **Lista de Tarefas (Pesquisa)**
-   - Classe `ListaTarefas` com um set de objetos `Tarefa` (descrição e status de conclusão).
-   - Métodos: adicionarTarefa, removerTarefa, exibirTarefas, contarTarefas, obterTarefasConcluidas, obterTarefasPendentes, marcarTarefaConcluida, marcarTarefaPendente, limparListaTarefas.
-
+   - Crie, conclua, marque como pendente ou remova tarefas em uma lista eficiente.
 3. **Lista de Alunos (Ordenação)**
-   - Classe `GerenciadorAlunos` para lidar com um conjunto de alunos (nome, matrícula e média).
-   - Métodos: adicionarAluno, removerAluno, exibirAlunosPorNome, exibirAlunosPorNota, exibirAlunos.
+   - Gerencie alunos, veja ordenações por nome ou nota, e muito mais.
 
 ### Map
 
 1. **Dicionário (Operações Básicas)**
-   - Classe `Dicionario` usando `Map` para armazenar palavras e definições.
-   - Métodos: adicionarPalavra, removerPalavra, exibirPalavras, pesquisarPorPalavra.
-
+   - Armazene e consulte palavras e definições facilmente.
 2. **Contagem de Palavras (Pesquisa)**
-   - Classe `ContagemPalavras` usando `Map` para contar a ocorrência de palavras.
-   - Métodos: adicionarPalavra, removerPalavra, exibirContagemPalavras, encontrarPalavraMaisFrequente.
-
+   - Conte ocorrências de palavras e descubra qual é a mais frequente em instantes.
 3. **Livraria Online (Ordenação)**
-   - Classe `LivrariaOnline` usando `Map` para gerenciar livros (link, título, autor, preço).
-   - Métodos: adicionarLivro, removerLivro, exibirLivrosOrdenadosPorPreco, pesquisarLivrosPorAutor, obterLivroMaisCaro, exibirLivroMaisBarato.
+   - Gerencie livros, encontre o mais caro/barato, pesquise por autor e ordene por preço.
 
 ---
 
-## Créditos
+## ✨ Como aproveitar melhor este repositório?
 
-Este projeto foi desenvolvido como parte do curso Santander Java da [DIO](https://www.dio.me/).
+- **Explore o código:** Cada pasta contém implementações de exercícios com comentários para facilitar o entendimento.
+- **Teste e adapte:** Sinta-se à vontade para rodar, modificar e criar suas próprias versões dos exercícios.
+- **Aprenda na prática:** Ideal para quem está estudando para entrevistas, provas ou quer consolidar o conhecimento em Collections.
 
 ---
 
-Sinta-se à vontade para explorar, sugerir melhorias ou contribuir!
+## 🙌 Créditos
+
+Projeto desenvolvido como parte do curso Santander Java da [DIO](https://www.dio.me/).  
+Fique à vontade para contribuir, sugerir melhorias ou tirar dúvidas!
+
+---
+
+**Bons estudos e boas práticas com Collections! 🚀**
